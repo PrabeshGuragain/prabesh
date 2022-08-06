@@ -95,6 +95,6 @@ else:
 
 input('This is still in a development phase so please privide your feedback: ')
 # Natak Nai Ho. Feedback store hudaina.
-print('Thanks for playing')
+print('-----------------Thanks for playing------------------------------------')
 print('Develpoed by Prabesh Guragain.')
 input()
